@@ -1,17 +1,29 @@
-import React from "react"
+import React,{useEffect} from "react";
 import Header from "../../components/Header";
-import { connect } from 'react-redux'
+import { useDispatch, useSelector } from "react-redux";
+import { getHomeList } from "./store/action";
 
-const Home = (props) => {
+const Home = () => {
+	useEffect(() => {
+		getHomeList(dispatch)
+	},[])
+
+	const name = useSelector(state => state.home.name);
+	const list = useSelector(state => state.home.list)
+	const dispatch = useDispatch();
 	return <div>
 		<Header/>
-		<div>this is {props.name}</div>
+		<div>this is {name}</div>
 		<button onClick={() => alert("click1")}>btn</button>
+		<ul>
+			{
+				 list.map(item => {
+				 	return <li key={item.id}>{item.name}</li>
+				})
+			}
+		</ul>
 	</div>
 }
 
-const mapStateToProps = state = ({
-	name: state.name
-})
 
-export default connect(mapStateToProps,null)(Home)
+export default Home

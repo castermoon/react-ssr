@@ -1,24 +1,19 @@
 import React from "react"
-import ReactDom from "react-dom"
+import { hydrateRoot } from 'react-dom/client';
 import { BrowserRouter } from "react-router-dom"
 import Routes from "../Routes"
-import { createStore } from "redux";
 import { Provider } from "react-redux"
-
-const reducer = (state = {name:"dell"},action) => {
-	return state;
-}
-
-const store = createStore(reducer)
+import getStore from "../store";
 
 const App = () => {
 	return (
-		<Provider store={}>
-			<BrowserRouter store={store}>
+		<Provider store={getStore()}>
+			<BrowserRouter >
 				{ Routes }
 			</BrowserRouter>
 		</Provider>
 	)
 }
+const container = document.getElementById('root');
+const root = hydrateRoot(container, <App />);
 
-ReactDom.hydrate(<App />,document.getElementById("root"))

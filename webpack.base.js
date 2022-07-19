@@ -1,21 +1,12 @@
 module.exports = {
+	devtool:"eval-cheap-module-source-map",
 	module: {
 		rules: [{
 			test: /\.js?$/,
 			loader: "babel-loader",
 			exclude: /node_modules/,
 			options: {
-				presets:["@babel/preset-react",[
-					"@babel/preset-env",
-					{
-						targets: [
-							"> 1%",
-							"last 2 version"
-						],
-						useBuiltIns: "usage",
-						corejs: 3
-					}
-				],]
+				presets:["@babel/preset-react", "@babel/preset-env"]
 			}
 		}]
 	}

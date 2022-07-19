@@ -1,0 +1,341 @@
+{
+  "errno": 0,
+  "data": {
+    "isShowingMovieList": [
+      {
+        "id": 1,
+        "cover": "https://i.postimg.cc/SJqdQRZD/image-4.webp",
+        "name": "空之境界 第五章 矛盾螺旋 劇場版 空の境界 第五章 矛盾螺旋",
+        "score": 6.9,
+        "type": "动画"
+      },
+      {
+        "id": 2,
+        "cover": "https://i.postimg.cc/3dBBkhV7/image.webp",
+        "name": "死亡笔记 デスノート",
+        "score": 8.8,
+        "type": "剧情 / 动画 / 悬疑 / 惊悚 / 犯罪 / 奇幻"
+      },
+      {
+        "id": 7,
+        "cover": "https://i.postimg.cc/ygZjxZ4r/image-1.webp",
+        "name": "命运之夜——天之杯Ⅲ：春之歌 劇場版 Fate/stay night [Heaven's Feel] ",
+        "score": 6,
+        "type": "剧情 / 动画 / 奇幻"
+      },
+      {
+        "id": 9,
+        "cover": "https://i.postimg.cc/jn6hQYjH/image-2.webp",
+        "name": "拆弹专家2",
+        "score": 5.2,
+        "type": "动作 / 犯罪"
+      },
+      {
+        "id": 10,
+        "cover": "https://i.postimg.cc/LhjvMLVJ/image-3.webp",
+        "name": "无双 無雙",
+        "score": 8,
+        "type": "剧情 / 动作 / 悬疑 / 犯罪"
+      },
+      {
+        "id": 12,
+        "cover": "https://i.postimg.cc/4KrvDx7v/p2874262709.webp",
+        "name": "人生大事",
+        "score": 7.4,
+        "type": "剧情 / 家庭"
+      },
+      {
+        "id": 13,
+        "cover": "https://i.postimg.cc/68bfh0Bm/p2873135507.webp",
+        "name": "侏罗纪世界3 Jurassic World: Dominion",
+        "score": 6.3,
+        "type": "动作 / 科幻 / 冒险"
+      },
+      {
+        "id": 14,
+        "cover": "https://i.postimg.cc/m14YrpSt/p2874367740.webp",
+        "name": "一周的朋友",
+        "score": 4.8,
+        "type": "剧情"
+      },
+      {
+        "id": 15,
+        "cover": "https://i.postimg.cc/9DQBTSH9/p2873885713.webp",
+        "name": "天才计划 Escape from Pretoria",
+        "score": 7.1,
+        "type": "剧情 / 悬疑 / 犯罪"
+      },
+      {
+        "id": 16,
+        "cover": "https://i.postimg.cc/zLLS2gBX/p2873978173.webp",
+        "name": "回南天",
+        "score": 5.2,
+        "type": "剧情"
+      },
+      {
+        "id": 17,
+        "cover": "https://i.postimg.cc/MMV0qJVC/p2874372955.webp",
+        "name": "云霄之上",
+        "score": 6.4,
+        "type": "剧情 / 战争"
+      }
+    ],
+    "hotMovieList": [
+      {
+        "id": 1,
+        "cover": "https://i.postimg.cc/SJqdQRZD/image-4.webp",
+        "name": "空之境界 第五章 矛盾螺旋 劇場版 空の境界 第五章 矛盾螺旋",
+        "score": 6.9,
+        "type": "动画"
+      },
+      {
+        "id": 2,
+        "cover": "https://i.postimg.cc/3dBBkhV7/image.webp",
+        "name": "死亡笔记 デスノート",
+        "score": 8.8,
+        "type": "剧情 / 动画 / 悬疑 / 惊悚 / 犯罪 / 奇幻"
+      },
+      {
+        "id": 7,
+        "cover": "https://i.postimg.cc/ygZjxZ4r/image-1.webp",
+        "name": "命运之夜——天之杯Ⅲ：春之歌 劇場版 Fate/stay night [Heaven's Feel] ",
+        "score": 6,
+        "type": "剧情 / 动画 / 奇幻"
+      },
+      {
+        "id": 9,
+        "cover": "https://i.postimg.cc/jn6hQYjH/image-2.webp",
+        "name": "拆弹专家2",
+        "score": 5.2,
+        "type": "动作 / 犯罪"
+      },
+      {
+        "id": 10,
+        "cover": "https://i.postimg.cc/LhjvMLVJ/image-3.webp",
+        "name": "无双 無雙",
+        "score": 8,
+        "type": "剧情 / 动作 / 悬疑 / 犯罪"
+      },
+      {
+        "id": 12,
+        "cover": "https://i.postimg.cc/4KrvDx7v/p2874262709.webp",
+        "name": "人生大事",
+        "score": 7.4,
+        "type": "剧情 / 家庭"
+      },
+      {
+        "id": 13,
+        "cover": "https://i.postimg.cc/68bfh0Bm/p2873135507.webp",
+        "name": "侏罗纪世界3 Jurassic World: Dominion",
+        "score": 6.3,
+        "type": "动作 / 科幻 / 冒险"
+      },
+      {
+        "id": 14,
+        "cover": "https://i.postimg.cc/m14YrpSt/p2874367740.webp",
+        "name": "一周的朋友",
+        "score": 4.8,
+        "type": "剧情"
+      },
+      {
+        "id": 15,
+        "cover": "https://i.postimg.cc/9DQBTSH9/p2873885713.webp",
+        "name": "天才计划 Escape from Pretoria",
+        "score": 7.1,
+        "type": "剧情 / 悬疑 / 犯罪"
+      },
+      {
+        "id": 16,
+        "cover": "https://i.postimg.cc/zLLS2gBX/p2873978173.webp",
+        "name": "回南天",
+        "score": 5.2,
+        "type": "剧情"
+      },
+      {
+        "id": 17,
+        "cover": "https://i.postimg.cc/MMV0qJVC/p2874372955.webp",
+        "name": "云霄之上",
+        "score": 6.4,
+        "type": "剧情 / 战争"
+      }
+    ],
+    "hotTVList": [
+      {
+        "id": 1,
+        "cover": "https://i.postimg.cc/SJqdQRZD/image-4.webp",
+        "name": "空之境界 第五章 矛盾螺旋 劇場版 空の境界 第五章 矛盾螺旋",
+        "score": 6.9,
+        "type": "动画"
+      },
+      {
+        "id": 2,
+        "cover": "https://i.postimg.cc/3dBBkhV7/image.webp",
+        "name": "死亡笔记 デスノート",
+        "score": 8.8,
+        "type": "剧情 / 动画 / 悬疑 / 惊悚 / 犯罪 / 奇幻"
+      },
+      {
+        "id": 7,
+        "cover": "https://i.postimg.cc/ygZjxZ4r/image-1.webp",
+        "name": "命运之夜——天之杯Ⅲ：春之歌 劇場版 Fate/stay night [Heaven's Feel] ",
+        "score": 6,
+        "type": "剧情 / 动画 / 奇幻"
+      },
+      {
+        "id": 9,
+        "cover": "https://i.postimg.cc/jn6hQYjH/image-2.webp",
+        "name": "拆弹专家2",
+        "score": 5.2,
+        "type": "动作 / 犯罪"
+      },
+      {
+        "id": 10,
+        "cover": "https://i.postimg.cc/LhjvMLVJ/image-3.webp",
+        "name": "无双 無雙",
+        "score": 8,
+        "type": "剧情 / 动作 / 悬疑 / 犯罪"
+      },
+      {
+        "id": 12,
+        "cover": "https://i.postimg.cc/4KrvDx7v/p2874262709.webp",
+        "name": "人生大事",
+        "score": 7.4,
+        "type": "剧情 / 家庭"
+      },
+      {
+        "id": 13,
+        "cover": "https://i.postimg.cc/68bfh0Bm/p2873135507.webp",
+        "name": "侏罗纪世界3 Jurassic World: Dominion",
+        "score": 6.3,
+        "type": "动作 / 科幻 / 冒险"
+      },
+      {
+        "id": 14,
+        "cover": "https://i.postimg.cc/m14YrpSt/p2874367740.webp",
+        "name": "一周的朋友",
+        "score": 4.8,
+        "type": "剧情"
+      },
+      {
+        "id": 15,
+        "cover": "https://i.postimg.cc/9DQBTSH9/p2873885713.webp",
+        "name": "天才计划 Escape from Pretoria",
+        "score": 7.1,
+        "type": "剧情 / 悬疑 / 犯罪"
+      },
+      {
+        "id": 16,
+        "cover": "https://i.postimg.cc/zLLS2gBX/p2873978173.webp",
+        "name": "回南天",
+        "score": 5.2,
+        "type": "剧情"
+      },
+      {
+        "id": 17,
+        "cover": "https://i.postimg.cc/MMV0qJVC/p2874372955.webp",
+        "name": "云霄之上",
+        "score": 6.4,
+        "type": "剧情 / 战争"
+      }
+    ],
+    "weekendList": [
+      {
+        "name": "空之境界 第五章 矛盾螺旋 劇場版 空の境界 第五章 矛盾螺旋",
+        "id": 1
+      },
+      {
+        "name": "死亡笔记 デスノート",
+        "id": 2
+      },
+      {
+        "name": "命运之夜——天之杯Ⅲ：春之歌 劇場版 Fate/stay night [Heaven's Feel] ",
+        "id": 7
+      },
+      {
+        "name": "拆弹专家2",
+        "id": 9
+      },
+      {
+        "name": "无双 無雙",
+        "id": 10
+      },
+      {
+        "name": "人生大事",
+        "id": 12
+      },
+      {
+        "name": "侏罗纪世界3 Jurassic World: Dominion",
+        "id": 13
+      },
+      {
+        "name": "一周的朋友",
+        "id": 14
+      },
+      {
+        "name": "天才计划 Escape from Pretoria",
+        "id": 15
+      },
+      {
+        "name": "回南天",
+        "id": 16
+      }
+    ],
+    "popularCommentList": [
+      {
+        "longComment_id": 1,
+        "title": "这是标题",
+        "content": "这是长评",
+        "score": 10,
+        "movie_id": 1,
+        "cover": "https://i.postimg.cc/SJqdQRZD/image-4.webp",
+        "movie_name": "空之境界 第五章 矛盾螺旋 劇場版 空の境界 第五章 矛盾螺旋",
+        "user_id": 1,
+        "username": "zhangsan"
+      },
+      {
+        "longComment_id": 2,
+        "title": "这是标题",
+        "content": "这也是长评",
+        "score": 4,
+        "movie_id": 1,
+        "cover": "https://i.postimg.cc/SJqdQRZD/image-4.webp",
+        "movie_name": "空之境界 第五章 矛盾螺旋 劇場版 空の境界 第五章 矛盾螺旋",
+        "user_id": 2,
+        "username": "lisi"
+      },
+      {
+        "longComment_id": 3,
+        "title": "这是标题",
+        "content": "这是我的第二条长评",
+        "score": 8,
+        "movie_id": 2,
+        "cover": "https://i.postimg.cc/3dBBkhV7/image.webp",
+        "movie_name": "死亡笔记 デスノート",
+        "user_id": 1,
+        "username": "zhangsan"
+      },
+      {
+        "longComment_id": 5,
+        "title": "这是标题",
+        "content": "这是我的第三条长评",
+        "score": 6,
+        "movie_id": 7,
+        "cover": "https://i.postimg.cc/ygZjxZ4r/image-1.webp",
+        "movie_name": "命运之夜——天之杯Ⅲ：春之歌 劇場版 Fate/stay night [Heaven's Feel] ",
+        "user_id": 1,
+        "username": "zhangsan"
+      },
+      {
+        "longComment_id": 6,
+        "title": "大萨达大萨达大萨达大萨达大萨达大萨达大萨达大萨达",
+        "content": "凡事起始之时，必细斟细酌，以保平衡之道准确无误。\n\n( A beginning is the time for taking the most delicate care that the balances are correct.  ) \n\n一座古老的圣所，这里是姐妹会贝尼·杰瑟里特（Bene Gesserit）的圣所。一幅极其精美的镶嵌图，上面写着优美的古阿拉伯式书法，记录着厚重的历史。\n\n（ BENE GESSERIT：贝尼·杰瑟里特。芭特勒圣战摧毁所谓的“思考机器”和机器人之后创建的一所古老学府，主要对女性学生进行心智和身体的训练。 ）\n\n (《沙丘》中的宗教组织姐妹会Bene Jesserit Sisterhood，其名为生造词。姐妹会名称源自圣经中，神对以色列人的亲密称，呼耶书仑之子jeshurun，bene与sserit为拉丁语,bene意为好与善、sserit意为完成与成就，Bene Jesserit意为美好的完成之人，即姐妹会的终极育种目标。) \n\n一名身份神秘的老者说话：老而弥慧（aged and wise）。\n\n老者：曾经，我们人类让机器为人类思考，后来机器奴役了人类。人类与机器迎来了一个充满暴虐和战争的时代。\n\n镶嵌图案发生变化，机械结构改变，逐渐形成一个扭曲的人形……\n\n（《沙丘》中的人类曾毫无顾忌地使用人工智能，极度依赖电脑。而机械智慧的拥有者通过机械奴役了所有人。随后拥护奴役者与被奴役者发生战争，史称巴特兰圣战Butlerian Jihad。）\n\n老者：当人类终于把机械摧毁之时，制定了一条新律：“汝不应造仿人思维机器。” （Thou shalt not make a machine in the likeness of a human mind.）\n\n屹立的机械物物体最终缩小粉碎，留下了一个黄金空间，人形出现。\n\n人形变成了被数学环绕门泰特……驾驶飞船的公会领航员……由圣母领导的，身穿黑袍的姐妹会贝尼·杰瑟里特……\n\n（人类通过各种方式强化自身，获得超级能力。）",
+        "score": 10,
+        "movie_id": 2,
+        "cover": "https://i.postimg.cc/3dBBkhV7/image.webp",
+        "movie_name": "死亡笔记 デスノート",
+        "user_id": 3,
+        "username": "wangwu"
+      }
+    ]
+  }
+}
