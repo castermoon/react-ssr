@@ -1,16 +1,19 @@
 import React,{useEffect} from "react";
 import Header from "../../components/Header";
 import { useDispatch, useSelector } from "react-redux";
-import { getHomeList } from "./store/action";
+import { getHomeList, getHomeList2} from "./store/action";
 
 const Home = () => {
-	useEffect(() => {
-		getHomeList(dispatch)
-	},[])
-
 	const name = useSelector(state => state.home.name);
 	const list = useSelector(state => state.home.list)
 	const dispatch = useDispatch();
+
+	useEffect(() => {
+		if(!list.length){
+			getHomeList(dispatch)
+		}
+	},[])
+
 	return <div>
 		<Header/>
 		<div>this is {name}</div>
@@ -27,3 +30,9 @@ const Home = () => {
 
 
 export default Home
+
+//这个函数，负责在服务器端渲染之前，把这个路由需要的数据提前加载好
+Home.loadData = (store) => {
+	return getHomeList2(store)
+}
+
