@@ -1,6 +1,7 @@
 import React from "react"
 import Home from "./containers/Home";
 import Login from "./containers/Login"
+import Nofound from "./containers/noFound";
 export default [
 	{
 		path:'/',
@@ -16,6 +17,10 @@ export default [
 		path:'/login',
 		element:<Login/>,
 		key:"login"
+	},{
+		path:'*',
+		element:<Nofound/>,
+		key:"noFound"
 	}
 ]
 
